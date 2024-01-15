@@ -13,9 +13,13 @@
 
 <div align="center">
 
- 🌱 I’m currently studying for  **Comptia Security+, 
- Learning Ethical Hackinng, Bug Bounty**
+ 🌱 I’m currently studying for  **Comptia Security+, **
 
+ </div>
+
+ <div align="center">
+
+ Learning Ethical Hacking and Bug Bounty+,**🌱
  </div>
 
  <h2 align="center">🧰 Languages and Tools: </h2>
