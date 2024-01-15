@@ -19,5 +19,4 @@
 <div align="center">
     <img src="(https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)"/>
      <img src="https://skillicons.dev/icons?i=nodejs,python,,,mysql" /><br> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"</a> 
 </div>
