@@ -17,7 +17,7 @@
 
  </div>
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <h2 align="center">🧰 Languages and Tools: </h2>
 <br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
