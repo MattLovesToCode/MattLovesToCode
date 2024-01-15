@@ -1,13 +1,22 @@
-### Hi I'm Matthew! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-#### A Passionate Software Developer from North America USA
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matthew!;" />
+</h1>
 
-## Languages  & Tools
+<h3 align="center">A passionate software developer from North America USA</h3>
 
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a><a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.linux.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+<br/>
 
+<div align="center">
 
+ 🌱 I’m currently learning **Comptia Security+, Ethical Hackinng, Bug Bounty**
 
+ </div>
 
-[![MattLovesToCode stats](https://github-readme-stats.vercel.app/api?username=MattLovesToCode)](https://github.com/MattLovesToCode/github-readme-stats)
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="(https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)"/>
+     <img src="https://skillicons.dev/icons?i=nodejs,python,express,c,mysql,flask" /><br>
+</div>
