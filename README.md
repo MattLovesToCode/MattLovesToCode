@@ -27,4 +27,4 @@
 </p>
 
 
-![MattLovesToCode GitHub stats](https://github-readme-stats.vercel.app/api?username=MattLovesToCode&theme=shadow_red&show_icons=true)
+![MattLovesToCode GitHub stats](https://github-readme-stats.vercel.app/api?username=MattLovesToCode&theme=discord_old_blurple&show_icons=true)
