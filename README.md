@@ -21,4 +21,3 @@
      <img src=
 </div>
 
-[![MattLovesToCode GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MattLovesToCode1193&hide=html,scss,stylus,blade,jupyter%,python,css,shell,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/MattLovesToCode)
