@@ -1,5 +1,6 @@
 ### Hi I'm Matthew! 👋
-#### <h3> align="center"A Passionate Software Developer from North America USA</h3>
+
+####"A Passionate Software Developer from North America USA
 
 ## Languages  & Tools
 
