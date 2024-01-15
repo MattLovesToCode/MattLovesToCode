@@ -26,8 +26,4 @@
 
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=MattLovesToCode&amp;theme=tokyonight" rel="nofollow">
-  <img align="left" src="https://camo.githubusercontent.com/bab95a85f3604e93b672ab9b625dc0547582fd14d8c5b6960baee34491b92cdc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43686172616c616d626f73496f616e6e6f7526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MattLovesToCode&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
-</a>
-<img align="left" src="https://camo.githubusercontent.com/bab95a85f3604e93b672ab9b625dc0547582fd14d8c5b6960baee34491b92cdc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43686172616c616d626f73496f616e6e6f7526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MattLovesToCode&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
-<img align="left" src="https://camo.githubusercontent.com/694c26e9a2136cdb3e7ef45b8ff7dbd41ef3461dfcaa0faeac5e7009010d166e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43686172616c616d626f73496f616e6e6f7526686964653d706870267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLovesToCode&amp;hide=php&amp;theme=tokyonight" style="max-width: 100%;">
+
