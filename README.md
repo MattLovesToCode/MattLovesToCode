@@ -13,7 +13,7 @@
 
 <div align="center">
 
- 🌱 I’m currently studying for  Comptia Security+🌱
+ 🌱 I’m currently studying for  Comptia A+🌱
 
  </div>
 
