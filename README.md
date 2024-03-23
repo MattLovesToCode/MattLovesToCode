@@ -1,7 +1,7 @@
 Frontend Developer
 ------------------
 
-I am a Frontend developer student
+I am a Frontend developer
 
 * 🌍  I'm based in North America
 * 🧠  I'm learning Computer Science and IT.
