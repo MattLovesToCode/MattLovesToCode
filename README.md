@@ -1,7 +1,7 @@
 Frontend Developer
 ------------------
 
-I am a Frontend developer
+I am a Passionate Frontend Web Developer 
 
 * 🌍  Based in North America.
 * 🧠  Currently learning Computer Science and IT.
