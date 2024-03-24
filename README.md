@@ -3,9 +3,9 @@ Frontend Developer
 
 I am a Frontend developer
 
-* 🌍  I'm based in North America
-* 🧠  I'm learning Computer Science and IT.
-* 🤝  I'm open to collaborating on Projects
+* 🌍  based in North America
+* 🧠  Currently learning Computer Science and IT.
+* 🤝  Open to collaborating on Projects
 
 ### Languages & Tools
 
