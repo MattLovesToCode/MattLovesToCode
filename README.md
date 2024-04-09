@@ -4,7 +4,7 @@ Frontend Developer
 I am a Passionate Frontend Web Developer who loves to build apps and websites.
 
 * 🌍  Based in North America.
-* 🧠  Currently learning Computer Science and IT.
+* 🧠  Currently learning Computer Science and Ethical Hacking.
 * 🤝  Open to collaborating on Projects.
 
 ### Languages
