@@ -1,5 +1,4 @@
-Frontend Developer
-------------------
+Software Engineer ------------------
 
 I am a Passionate Frontend Web Developer who loves to build apps and websites.
 
