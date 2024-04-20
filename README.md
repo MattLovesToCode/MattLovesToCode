@@ -1,7 +1,7 @@
 ------------------
-Front End Developer
+Full Stack Web Developer
 
-I am a Passionate Front End Web Developer who loves to build responsive apps and websites.
+I am a Passionate Full Stack Web Developer who loves to build responsive apps and websites.
 
 * 🌍  Based in North America.
 * 🧠  Currently learning Computer Science and Ethical Hacking.
