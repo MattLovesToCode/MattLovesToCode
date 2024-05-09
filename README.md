@@ -4,7 +4,7 @@ Full Stack Web Developer
 ========================
 
 * 🌍  I'm based in Norht America
-* 🧠  I'm Interested in Cyber Security, Web Development and Video Game Development.
+* 🧠  I'm Interested in Cyber Security and Web Development I also like to make games.
 * 🤝  I'm open to collaborating on projects & apps
 
 # 💻 Tech Stack:
