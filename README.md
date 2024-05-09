@@ -1,8 +1,8 @@
 Hi 👋 My name is Matthew
 ========================
 
-* 🌍  I'm based in Kansas
-* 🧠  I'm learning Computer Science
+* 🌍  I'm based in Norht America
+* 🧠  I'm Interested in Cyber Security, and Web Development.
 * 🤝  I'm open to collaborating on projects & apps
 
 # 💻 Tech Stack:
