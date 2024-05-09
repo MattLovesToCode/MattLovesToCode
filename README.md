@@ -6,7 +6,7 @@ Game Developer
 ========================
 
 * 🌍  I'm based in Norht America
-* 🧠  I'm Interested in Cyber Security, and Web Development.
+* 🧠  I'm Interested in Cyber Security, Web and Video Game Development.
 * 🤝  I'm open to collaborating on projects & apps
 
 # 💻 Tech Stack:
