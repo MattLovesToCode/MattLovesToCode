@@ -1,4 +1,6 @@
-Hi 👋 My name is Matthew
+Hi 👋 I'm Matthew
+Full Stack Web Developer
+Game Developer
 ========================
 
 * 🌍  I'm based in Norht America
