@@ -3,7 +3,7 @@ Hi 👋 I'm Matthew
 Full Stack Web Developer
 ========================
 
-* 🌍  I'm based in Norht America
+* 🌍  I'm based in North America
 * 🧠  I'm Interested in Cyber Security and Web Development I also like to make games.
 * 🤝  I'm open to collaborating on projects & apps
 
