@@ -1,4 +1,4 @@
-Hi 👋 I'm a Full Stack Web Developer
+Welcome to my Github 👋 I'm a Full Stack Web Developer
 ========================
 
 * 🌍  I'm based in North America
