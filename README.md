@@ -1,4 +1,4 @@
-👋 I'm a Full Stack Web Developer
+👋 Full Stack Web Developer
 ========================
 
 * 🌍  I'm based in North America
