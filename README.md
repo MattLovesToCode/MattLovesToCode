@@ -1,6 +1,4 @@
-Hi There,👋 I'm Matthew
-========================
-Full Stack Developer
+👋Full Stack Developer
 ========================
 
 * 🌍  I'm based in North America
