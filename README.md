@@ -1,4 +1,4 @@
-Hello There, 👋 Welcome to my profile.
+Hi 👋 Welcome to my profile.
 ========================
 
 # About Me
