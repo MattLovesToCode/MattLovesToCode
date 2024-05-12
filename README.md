@@ -1,4 +1,5 @@
-👋 Full Stack Web Developer
+Hi There,👋 I'm Matthew
+Full Stack Developer
 ========================
 
 * 🌍  I'm based in North America
